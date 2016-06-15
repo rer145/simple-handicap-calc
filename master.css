@@ -1,0 +1,17 @@
+body, td
+{
+	font : 8pt tahoma;
+}
+
+table
+{
+	border-collapse : collapse;
+}
+
+thead tr td
+{
+	font-weight : bold;
+	text-align : center;
+	background-color : #369;
+	color : #fff;
+}
